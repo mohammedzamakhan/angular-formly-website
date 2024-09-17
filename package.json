@@ -31,7 +31,7 @@
     "angular-formly": "^6.1.0",
     "highlight.js": "^8.4.0",
     "angular-highlightjs": "0.4.1",
-    "angular-ui-router": "^0.2.13",
+    "angular-ui-router": "^1.0.4",
     "angulartics": "^0.17.2",
     "api-check": "^7.0.0",
     "bootstrap": "^3.3.2"
